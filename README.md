@@ -40,9 +40,7 @@ http://localhost/FoodMandu – Restaurant Management System/
 
 🖼️ Screenshots
 1. Home
-![Screenshot 2025-05-12 143052](https://github.com/user-attachments/assets/83e56757-f41f-4d5d-95fd-bdb39b6ae68c)
-page
-
+file:///C:/Users/sandi/Pictures/Screenshots/Screenshot%202025-05-12%20143052.png
 
 
 2. Admin Dashboard
