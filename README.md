@@ -40,15 +40,17 @@ http://localhost/FoodMandu – Restaurant Management System/
 
 🖼️ Screenshots
 1. Home
-file:///C:/Users/sandi/Pictures/Screenshots/Screenshot%202025-05-12%20143052.png
+![Screenshot 2025-05-12 143052](https://github.com/user-attachments/assets/7c1a54c3-e35c-458d-87bd-65ed7e9692c0)
+
 
 
 2. Admin Dashboard
-![Screenshot 2025-05-12 143144](https://github.com/user-attachments/assets/8af7d762-5bbf-4401-9f87-9a7d5d46be5c)
+![Screenshot 2025-05-12 143144](https://github.com/user-attachments/assets/25344f97-be1b-4849-a88f-14feee615dff)
+
 
 
 3. Booking page
-![Screenshot 2025-05-12 143202](https://github.com/user-attachments/assets/72ab04b4-c3c4-43b1-bb08-b80713eca312)
+![Screenshot 2025-05-12 143202](https://github.com/user-attachments/assets/ae5206cb-83a7-4787-9591-158bb33b906d)
 
 
 🧑‍💻 Technologies Used
