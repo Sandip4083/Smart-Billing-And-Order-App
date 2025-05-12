@@ -40,10 +40,13 @@ http://localhost/FoodMandu – Restaurant Management System/
 
 🖼️ Screenshots
 1. Homepage
+<img width="416" alt="image" src="https://github.com/user-attachments/assets/191dc34c-38a4-4b40-895a-6fafda0023dd" />
 
-2. reservation page
+2. Admin Dashboard
+<img width="457" alt="image" src="https://github.com/user-attachments/assets/150d41f9-98a2-4fc0-8833-34e6e92364b9" />
 
-3. signup/login forms
+3. Booking page
+<img width="434" alt="image" src="https://github.com/user-attachments/assets/13a5af69-bb73-430f-ab96-a089a90229ab" />
 
 🧑‍💻 Technologies Used
 PHP
