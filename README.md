@@ -1,4 +1,4 @@
-# Smart-Billing-And-Order-website
+# Smart-Billing-And-Order-portal
 Smart website for efficient restaurant ordering and billing.
 <br>
 Using PHP, HTML, CSS, and MySQL.
